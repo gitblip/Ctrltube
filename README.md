@@ -32,7 +32,7 @@ CtrlTube is a Chrome extension that helps learners stay focused on educational c
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/MrVoracious/CtrlTube.git
+   git clone https://github.com/gitblip/Ctrltube
    ```
 2. Open [chrome://extensions](chrome://extensions) in your browser.  
 3. Enable **Developer Mode** (top right).  
@@ -116,8 +116,3 @@ You are free to:
 🔗 [Read the full license](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ---
-
-## 🙌 Acknowledgments
-
-Created with passion at **KT HACK 2025** by  
-[MrVoracious](https://github.com/MrVoracious), [fuel000cynical](https://github.com/fuel000cynical), and [insomniac-robot](https://github.com/Insomniac-Robot).
